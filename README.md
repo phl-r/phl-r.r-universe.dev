@@ -7,8 +7,8 @@ The **PHL-R Registry** is a community-driven repository hosted on [R-Universe](h
 ---
 
 ## 🏛️ Our Mission
-We provide the infrastructure for:
-* **Archipelagic Spatial Modeling:** Tools like `roroph` and `ArchipelagoEngine` that account for maritime logistics.
+We provide the open-source infrastructure for:
+* **Archipelagic Spatial Modeling:** R Packages like `roroph` and `ArchipelagoEngine` that account for maritime logistics.
 * **National Statistics:** Streamlining access to PSA and LGU-level data.
 * **Public Health:** Hosting foundational epidemiology tools built for the Philippine context.
 
