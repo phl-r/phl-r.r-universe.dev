@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/phflag.png" width="120" />
-  <h1>PHL-R Registry</h1>
+  <h1>Pinoy R Registry</h1>
   <p><i>The Central Infrastructure for Philippine R Software</i></p>
 </div>
 
